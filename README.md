@@ -15,7 +15,7 @@ The RBOD is the first publicly available dataset for river barrier object detect
 ## Dataset download:  
 The RBOD dataset can be downloaded from:  
 
-## training models:  
+## Training models:  
 All experiments in this study were conducted in an environment with Python 3.9.19 and torch 2.2.2+cu121.  
 
 · For training and testing of various models (including Oriented R-CNN, Rotated Faster R-CNN, R3Det, and Rotated RetinaNet ) under the mmrotate framework, please refer to https://github.com/open-mmlab/mmrotate?tab=readme-ov-file.  
