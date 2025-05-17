@@ -21,3 +21,7 @@ All experiments in this study were conducted in an environment with Python 3.9.1
 · For training and testing of various models (including Oriented R-CNN, Rotated Faster R-CNN, R3Det, and Rotated RetinaNet ) under the mmrotate framework, please refer to https://github.com/open-mmlab/mmrotate?tab=readme-ov-file.  
 
 · For training and testing of YOLOV8-OBB, please refer to https://github.com/ultralytics/ultralytics.  
+
+You can access the dataset at https://doi.org/10.5281/zenodo.13969066. 
+Detailed information about the dataset can be found in the following article: 
+Wu, J., Li, W., Du, H. et al. An annotated satellite imagery dataset for automated river barrier object detection. Sci Data 12, 237 (2025). https://doi.org/10.1038/s41597-025-04590-z
